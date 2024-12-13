@@ -95,12 +95,6 @@ The `mpls_controller.py` script uses the Ryu controller to implement the MPLS fo
 - Limited to specific network topology
 - Educational purposes only
 
-## Contributing
-Contributions, issues, and feature requests are welcome!
-
-## License
-[Specify your license]
-
 ## Acknowledgments
 - Networking Class Project
 - Ryu SDN Framework
